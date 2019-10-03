@@ -1,0 +1,32 @@
+.navegador{
+    
+    background: linear-gradient(45deg, #ff0047, #6eff00); 
+}
+@keyframes animate{
+    0%{
+        filter: blur(60px) hue-rotate(0deg);
+    }
+    100%{
+        filter: blur(60px) hue-rotate(360deg);
+    }
+}
+.navbar-brand {
+
+color:white;
+back
+}
+.nav-item {
+    color: white;
+}
+.dropdown-item {
+    color: black;
+}
+.btn{
+color: black;
+border-block-color: red;
+}
+.needs-validation{
+    padding: 5px;
+}
+#boton{
+border-color: white;

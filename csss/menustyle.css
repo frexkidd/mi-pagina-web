@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-top: -20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(#fff 0%, #fff 50%, #42a8f9 50%, #42a8f9 100%);
+    font-family: 'poppins', sans-serif; 
+}
+.navigation
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:  #fff;
+    padding: 0px;
+    transition: 0.5s;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow:  0 8px 15px  rgba(0,0,0,.2); 
+}
